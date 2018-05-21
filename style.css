@@ -1,1 +1,18 @@
 /* YOUR CSS HERE */
+
+
+
+.square {
+	margin: auto;
+	width: 60%;
+	padding: 10px;
+	background-color: blue;
+}
+
+.btn {
+	/*width: 40%;*/
+	/*margin: auto;*/
+	margin-left: 47%;
+	margin-right: 47%;
+	margin-bottom: 10px;
+}

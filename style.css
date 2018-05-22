@@ -3,8 +3,7 @@
 
 
 .square {
-	margin: auto;
-	width: 60%;
+	margin: left;
 	padding: 10px;
 	background-color: blue;
 }
@@ -12,7 +11,7 @@
 .btn {
 	/*width: 40%;*/
 	/*margin: auto;*/
-	margin-left: 47%;
-	margin-right: 47%;
+	margin-left: 0;
+	margin-right: 0;
 	margin-bottom: 10px;
 }
